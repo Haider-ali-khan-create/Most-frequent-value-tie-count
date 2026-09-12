@@ -7,6 +7,7 @@ int main(){
 	int N;
 	scanf("%d",&N);
 	int singer[N];
+	//max frequency calculating algorithm
 	for(int i=0; i<N; i++){
 		scanf("%d\n",&singer[i]);
 	}
